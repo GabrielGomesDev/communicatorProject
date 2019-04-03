@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    xmlns:xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:xmlns:tools="http://schemas.android.com/tools"
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings" app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/item_leave"
+        android:title="@string/item_leave"
+        android:orderInCategory="200" app:showAsAction="never"
+    />
+
+    <item
+        android:id="@+id/item_search"
+        android:title="Pesquisa"
+        android:orderInCategory="300" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_search"
+        />
+
+    <item
+        android:id="@+id/item_add"
+        android:title="Add"
+        android:orderInCategory="400" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_person_add"
+        />
+
+
+
+</menu>

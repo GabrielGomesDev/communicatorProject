@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">communicatorProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_leave">Log-off</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
